@@ -1,5 +1,13 @@
 import React from "react"
+import Layout from "../templates/Layout"
+import hamster from "../images/hamster.jpg"
 
-export default function Home() {
-  return <div>Hello world!</div>
-}
+const LandingPage = () => (
+  <Layout pageTitle="landing page">
+    <h1>gatsby-starter-robin</h1>
+    <p>Custom strapi, sass, redux, gatsby boilerplate</p>
+    <img src={hamster} alt="hamster" />
+  </Layout>
+)
+
+export default LandingPage
