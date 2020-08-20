@@ -3,7 +3,7 @@
   "private": true,
   "description": "Custom strapi, sass, redux, gatsby boilerplate",
   "version": "0.1.0",
-  "license": "copyright",
+  "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

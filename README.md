@@ -1,6 +1,6 @@
 # gatsby-starter-robin
 
-JAMstack boilerplate which uses **strapi** as CMS. Reset and SASS for styles.
+Personal JAMstack boilerplate using **strapi cms**, redux, redux-form, sass.
 
 ## modules
 
@@ -21,4 +21,3 @@ JAMstack boilerplate which uses **strapi** as CMS. Reset and SASS for styles.
 - redux-thunk
 - redux-form
 - gatsby-plugin-react-redux
-
