@@ -2,6 +2,16 @@
 
 Personal JAMstack boilerplate using **strapi cms**, redux, redux-form, sass.
 
+
+
+## Instructions
+
+Run the follow command in your new project directory.
+
+```sh
+npx gatsby new new-gatsby-project https://github.com/robinedmunds/gatsby-starter-robin
+```
+
 ## modules
 
 - sass
